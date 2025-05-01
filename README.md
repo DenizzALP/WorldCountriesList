@@ -26,7 +26,6 @@ This is a simple and interactive frontend project that displays a list of all 19
 
     ```bash
     git clone https://github.com/DenizzALP/WorldCountriesList.git
-    cd Guncel-Hava-Durumu-Uygulamasi
     ```
 
 2. Open the HTML file in your browser to use the app.
